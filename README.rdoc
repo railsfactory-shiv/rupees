@@ -1,0 +1,18 @@
+Rupees
+
+Using Rupees you can write number to words (as Indian rupee).
+
+This is easy and self explanatory.
+
+
+How To Use:
+
+Eg:
+2345.rupees
+
+Output:
+Two thousand, Three hundred, FourtyFive Rupees.
+
+
+Thats it. :)
+
