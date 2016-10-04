@@ -1,9 +1,15 @@
 Rupees
 
+This is an extension of original project (https://github.com/railsfactory-shiv/rupees).
+
 Using Rupees you can write number to words (as Indian rupee).
 
-This is easy and self explanatory.
+Following changes were done in this fork:
+1. Spelling and case corrections.
+2. Removed comma (,) and dot (.) from the output text.
+3. Added 'and' and 'only' at appropriate places.
 
+This is easy and self explanatory.
 
 How To Use:
 
@@ -11,8 +17,4 @@ Eg:
 2345.rupees
 
 Output:
-Two thousand, Three hundred, FourtyFive Rupees.
-
-
-Thats it. :)
-
+Two Thousand Three Hundred and Forty Five Rupees only
